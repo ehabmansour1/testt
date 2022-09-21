@@ -5,3 +5,4 @@ lis.forEach((li)=>{
     document.querySelector(`div#${myId}`).style.backgroundColor= "pink";
   })
 })
+console.log(window)
