@@ -1,0 +1,13 @@
+div {
+  width: 100px;
+  height: 100px;
+}
+#div1{
+  background-color: darkred;
+}
+#div2{
+  background-color: darkgreen;
+}
+li {
+  height: 50px;
+}
