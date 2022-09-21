@@ -6,3 +6,7 @@ lis.forEach((li)=>{
   })
 })
 console.log(window)
+let num = 8;
+if ((num/2).toFixed()== num/2){
+  console.log(true)
+}
